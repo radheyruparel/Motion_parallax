@@ -4,5 +4,5 @@ This program that displays a landscape in a graphical canvas and allows the user
 
 This code shows my abilites to use graphic packages and create visual representations. 
 
-![Screen Shot 2022-11-22 at 6 27 50 PM](https://user-images.githubusercontent.com/6331985/203453388-591dae45-2cfd-4345-9b56-55eda2efc2d6.png)
+![landscape](https://user-images.githubusercontent.com/6331985/203453991-613c5b53-13c3-4648-abbe-d8d434b5a7ad.gif)
 
